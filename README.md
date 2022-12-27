@@ -1,4 +1,4 @@
-## This project was active during Hacktoberfest-2018 and not currently maintained. If you are looking for the Hacktoberfest contribution here is another awesome repo: https://github.com/horizonvert/Code-Portfolios
+## This project was active during Hacktoberfest-2018 and not currently maintained. If you are looking for the Hacktoberfest contribution here is another awesome repo: https://github.com/horizonvert98/Code-Portfolios
 
 # Hello-World
 
